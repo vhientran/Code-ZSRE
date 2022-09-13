@@ -1,0 +1,8 @@
+python 3.6.13
+PyTorch 1.10.2  
+transformers 4.16.2 
+numpy 1.19.2  
+
+
+
+
