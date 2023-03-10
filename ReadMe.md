@@ -19,7 +19,11 @@ conda activate env_zsre
 ## 3. **How to Run Experiments**
 
 ### + Datasets:
-Both FewRel and Wiki-ZSL datasets are in the folder: "Code-ZSRE/official_data". Also, the relation labels and descriptions are available.
+
+Since the size of the original Wiki-ZSL dataset is large, please download this dataset at the [link](https://drive.google.com/file/d/1TMYvAbe9wsB5GiWcUL5bMAs9x6CpvnAj/view?usp=sharing) .
+Then, put it in the folder: "Code-ZSRE/official_data/".
+
+Now, both FewRel and Wiki-ZSL datasets are in the folder: "Code-ZSRE/official_data". Also, the relation labels and descriptions are available.
 As introduced in the paper, we split the entire datasets into training and test sets, where the number of unseen relations in the test set is 15 (m=15).
 We repeat this division 5 times for 5 different random selections of m.
 Finally, the division result is saved in the file: "Code-ZSRE/official_data/split_train_test_sets/official_data_divisions.json"
