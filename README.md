@@ -65,3 +65,5 @@ CUDA_VISIBLE_DEVICES=0 python train.py --alpha 1 --n_unseen 15 --K 5 --id_round 
 
 The final reported performance on FewRel is avaraged of 5 the results by running 5 times above.
 
+
+## Please consider to cite our paper if you find it useful.
