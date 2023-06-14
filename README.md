@@ -1,4 +1,4 @@
-This is the official source code of our paper: **Enhancing Semantic Correlation between Instances and Relations for Zero-Shot Relation Extraction**, Journal of Natural Language Processing.
+This is the official source code of our paper: [Enhancing Semantic Correlation between Instances and Relations for Zero-Shot Relation Extraction](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_304/_article/-char/en) , Journal of Natural Language Processing.
 
 To reproduce our reported experimental results, please follow steps below:
 
