@@ -66,4 +66,15 @@ CUDA_VISIBLE_DEVICES=0 python train.py --alpha 1 --n_unseen 15 --K 5 --id_round 
 The final reported performance on FewRel is avaraged of 5 the results by running 5 times above.
 
 
-## Please consider to cite our paper if you find it useful.
+## Please consider to cite our paper if you find it useful. Thank you!
+@article{Van-Hien Tran2023,
+  title={Enhancing Semantic Correlation between Instances and Relations for Zero-Shot Relation Extraction},
+  author={Van-Hien Tran and Hiroki Ouchi and Hiroyuki Shindo and Yuji Matsumoto and Taro Watanabe},
+  journal={Journal of Natural Language Processing},
+  volume={30},
+  number={2},
+  pages={304-329},
+  year={2023},
+  doi={10.5715/jnlp.30.304}
+}
+
