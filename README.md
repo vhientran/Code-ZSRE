@@ -67,6 +67,7 @@ The final reported performance on FewRel is avaraged of 5 the results by running
 
 
 ## Please consider to cite our paper if you find it useful. Thank you!
+```bibtex
 @article{Van-Hien Tran2023,
   title={Enhancing Semantic Correlation between Instances and Relations for Zero-Shot Relation Extraction},
   author={Van-Hien Tran and Hiroki Ouchi and Hiroyuki Shindo and Yuji Matsumoto and Taro Watanabe},
@@ -77,4 +78,5 @@ The final reported performance on FewRel is avaraged of 5 the results by running
   year={2023},
   doi={10.5715/jnlp.30.304}
 }
+
 
